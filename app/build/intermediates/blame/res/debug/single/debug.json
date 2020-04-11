@@ -36,12 +36,12 @@
         "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
         "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -216,12 +216,12 @@
         "source": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\src\\main\\res\\layout\\activity_song_list.xml"
     },
     {
-        "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
         "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_song_detail.xml.flat",
@@ -252,12 +252,12 @@
         "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
         "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.1.aar\\36b937da1f086832b67fb1e3cd01a2b3\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
@@ -340,24 +340,24 @@
         "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
         "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.1.aar\\1f4a8873b210bd3256b43c44e4bb2d32\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -404,12 +404,12 @@
         "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.1.aar\\36b937da1f086832b67fb1e3cd01a2b3\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
-        "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\color\\abc_search_url_text.xml"
-    },
-    {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
         "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\color\\abc_search_url_text.xml"
     },
     {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -536,12 +536,12 @@
         "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_text_material.xml.flat",
         "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -572,12 +572,12 @@
         "source": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
-        "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.1.aar\\36b937da1f086832b67fb1e3cd01a2b3\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
         "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\6514285d96600082377a771bc454d471\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.1.aar\\36b937da1f086832b67fb1e3cd01a2b3\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -686,6 +686,10 @@
     {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_design_tint_password_toggle.xml.flat",
         "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.1.aar\\3b4adfeaaae899b6083894b28914941d\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_song_detail.xml.flat",
+        "source": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\src\\main\\res\\layout\\fragment_song_detail.xml"
     },
     {
         "merged": "C:\\Users\\jorda\\AndroidStudioProjects\\SongDetail_start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
