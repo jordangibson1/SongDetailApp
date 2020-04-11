@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:design:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3b4adfeaaae899b6083894b28914941d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\6514285d96600082377a771bc454d471\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\250387974204d7d88a4ed9fc4cd7fb50\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\4666fcc72c4eb092ce26337c30ff99fd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\c50930e956fd41c4a86f9bc2979d0731\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\d3f746be64027ac95f2894d10d24825e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\590d3c0cab6d45639d1628a8b3428ee1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\d3bddc1e0419e872775eaf87adedd048\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\0074493314b29ce4c464a104b6c4492d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\e118d0821dbe2f21eafcaa0f6cc7d0d6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\1f4a8873b210bd3256b43c44e4bb2d32\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\36b937da1f086832b67fb1e3cd01a2b3\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support:design:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3b4adfeaaae899b6083894b28914941d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3b4adfeaaae899b6083894b28914941d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\6514285d96600082377a771bc454d471\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\6514285d96600082377a771bc454d471\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\250387974204d7d88a4ed9fc4cd7fb50\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\250387974204d7d88a4ed9fc4cd7fb50\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\4666fcc72c4eb092ce26337c30ff99fd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\4666fcc72c4eb092ce26337c30ff99fd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\c50930e956fd41c4a86f9bc2979d0731\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\c50930e956fd41c4a86f9bc2979d0731\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\d3f746be64027ac95f2894d10d24825e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\d3f746be64027ac95f2894d10d24825e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\590d3c0cab6d45639d1628a8b3428ee1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\590d3c0cab6d45639d1628a8b3428ee1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\d3bddc1e0419e872775eaf87adedd048\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\d3bddc1e0419e872775eaf87adedd048\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\0074493314b29ce4c464a104b6c4492d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\0074493314b29ce4c464a104b6c4492d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\e118d0821dbe2f21eafcaa0f6cc7d0d6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\e118d0821dbe2f21eafcaa0f6cc7d0d6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\1f4a8873b210bd3256b43c44e4bb2d32\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\1f4a8873b210bd3256b43c44e4bb2d32\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\36b937da1f086832b67fb1e3cd01a2b3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\36b937da1f086832b67fb1e3cd01a2b3\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.songdetailstart.MainActivity
+ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:13:13-76
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.android.songdetailstart.SongDetailActivity
+ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:parentActivityName
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:25:13-90
+	android:label
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:24:13-54
+	android:theme
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:23:13-82
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:27:13-29:84
+	android:value
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:29:17-81
+	android:name
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml:28:17-63
+uses-sdk
+INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3b4adfeaaae899b6083894b28914941d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3b4adfeaaae899b6083894b28914941d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\6514285d96600082377a771bc454d471\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\6514285d96600082377a771bc454d471\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\250387974204d7d88a4ed9fc4cd7fb50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\250387974204d7d88a4ed9fc4cd7fb50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\4666fcc72c4eb092ce26337c30ff99fd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\4666fcc72c4eb092ce26337c30ff99fd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\c50930e956fd41c4a86f9bc2979d0731\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\c50930e956fd41c4a86f9bc2979d0731\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\d3f746be64027ac95f2894d10d24825e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\d3f746be64027ac95f2894d10d24825e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\590d3c0cab6d45639d1628a8b3428ee1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\590d3c0cab6d45639d1628a8b3428ee1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\d3bddc1e0419e872775eaf87adedd048\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\d3bddc1e0419e872775eaf87adedd048\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\0074493314b29ce4c464a104b6c4492d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\0074493314b29ce4c464a104b6c4492d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\e118d0821dbe2f21eafcaa0f6cc7d0d6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\e118d0821dbe2f21eafcaa0f6cc7d0d6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\1f4a8873b210bd3256b43c44e4bb2d32\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\1f4a8873b210bd3256b43c44e4bb2d32\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\36b937da1f086832b67fb1e3cd01a2b3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\36b937da1f086832b67fb1e3cd01a2b3\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3b4adfeaaae899b6083894b28914941d\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jorda\AndroidStudioProjects\SongDetail_start\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3b4adfeaaae899b6083894b28914941d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\6514285d96600082377a771bc454d471\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\6514285d96600082377a771bc454d471\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\250387974204d7d88a4ed9fc4cd7fb50\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\250387974204d7d88a4ed9fc4cd7fb50\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\4666fcc72c4eb092ce26337c30ff99fd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\4666fcc72c4eb092ce26337c30ff99fd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\c50930e956fd41c4a86f9bc2979d0731\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\c50930e956fd41c4a86f9bc2979d0731\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\d3f746be64027ac95f2894d10d24825e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\d3f746be64027ac95f2894d10d24825e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\590d3c0cab6d45639d1628a8b3428ee1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\590d3c0cab6d45639d1628a8b3428ee1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\d3bddc1e0419e872775eaf87adedd048\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\d3bddc1e0419e872775eaf87adedd048\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\0074493314b29ce4c464a104b6c4492d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\0074493314b29ce4c464a104b6c4492d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\e118d0821dbe2f21eafcaa0f6cc7d0d6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\e118d0821dbe2f21eafcaa0f6cc7d0d6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\1f4a8873b210bd3256b43c44e4bb2d32\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\1f4a8873b210bd3256b43c44e4bb2d32\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\36b937da1f086832b67fb1e3cd01a2b3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\36b937da1f086832b67fb1e3cd01a2b3\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3b4adfeaaae899b6083894b28914941d\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.1] C:\Users\jorda\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3b4adfeaaae899b6083894b28914941d\AndroidManifest.xml:27:13-51
